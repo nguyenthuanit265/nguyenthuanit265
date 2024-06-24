@@ -20,6 +20,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthuanit265&" alt="nguyenthuanit265" /></p>
 
+<h3>SKILLS</h3>
+<p>Programming Language: Java8, Java11, Java17, Golang, Python</p>
+<p>Framework: Spring Framework, Spring Boot, Hibernate, Spring Data JPA, Gin,…</p>
+<p>Database: PostgreSQL, MySQL</p>
+<p>Message queue: Apache Kafka, RabbitMQ</p>
+<p>Cache system: Redis</p>
+<p>AWS: S3, DynamoDB, CloudSearchDomain, Lambda, Cognito, CodeCommit</p>
+<p>Other: Kibana, Supervisord</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
