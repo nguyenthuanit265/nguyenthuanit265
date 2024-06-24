@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Huỳnh Minh Thuận</h1>
-<h3>Backend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenthuanit265&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenthuanit265" /> </p>
 
