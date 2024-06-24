@@ -19,3 +19,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&locale=en" alt="nguyenthuanit265" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthuanit265&" alt="nguyenthuanit265" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+
