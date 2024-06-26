@@ -28,9 +28,10 @@
 <p>AWS: S3, DynamoDB, CloudSearchDomain, Lambda, Cognito, CodeCommit</p>
 <p>Other: Kibana, Supervisord</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&theme=radical)](https://github.com/nguyenthuanit265/reactjs-crypto-app-clone)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&theme=dark)](https://github.com/nguyenthuanit265/shopping-cart-react)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&theme=highcontrast)](https://github.com/nguyenthuanit265/spring-boot-learning)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&theme=dracula)](https://github.com/nguyenthuanit265/crypto-prediction)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&theme=tokyonight)](https://github.com/nguyenthuanit265/mycoin-blockchain)
+
 
