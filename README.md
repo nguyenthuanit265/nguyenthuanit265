@@ -19,11 +19,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthuanit265&" alt="nguyenthuanit265" /></p>
 
-<h3>SKILLS</h3>
-<p>Programming Language: Java8, Java11, Java17, Golang, Python</p>
-<p>Framework: Spring Framework, Spring Boot, Hibernate, Spring Data JPA, Gin,…</p>
-<p>Database: PostgreSQL, MySQL</p>
-<p>Message queue: Apache Kafka, RabbitMQ</p>
-<p>Cache system: Redis</p>
-<p>AWS: S3, DynamoDB, CloudSearchDomain, Lambda, Cognito, CodeCommit</p>
-<p>Other: Kibana, Supervisord</p>
+<h3 align="left" style="color: #0366d6;">🚀 Skills</h3>
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px;">
+  <p><strong>💻 Programming Languages:</strong> Java8, Java11, Java17, Golang, Python</p>
+  
+  <p><strong>🛠 Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, Spring Data JPA, Gin</p>
+  
+  <p><strong>🗄️ Databases:</strong> PostgreSQL, MySQL</p>
+  
+  <p><strong>📨 Message Queues:</strong> Apache Kafka, RabbitMQ</p>
+  
+  <p><strong>🚀 Cache System:</strong> Redis</p>
+  
+  <p><strong>☁️ AWS Services:</strong> S3, DynamoDB, CloudSearchDomain, Lambda, Cognito, CodeCommit</p>
+  
+  <p><strong>🔧 Other Tools:</strong> Kibana, Supervisord</p>
+</div>
