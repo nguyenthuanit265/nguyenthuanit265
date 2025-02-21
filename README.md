@@ -14,8 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&locale=en" alt="nguyenthuanit265" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthuanit265&" alt="nguyenthuanit265" /></p>
-
 <h3 align="left" style="color: #0366d6;">🚀 Skills</h3>
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px;">
