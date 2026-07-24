@@ -1,33 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Huỳnh Minh Thuận</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenthuanit265&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenthuanit265" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenthuanit265" alt="nguyenthuanit265" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nguyen-huynh-minh-thuan-it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguyen-huynh-minh-thuan-it/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/thuan562.nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thuan562.nguyen" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Thu%E1%BA%ADn%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthuanit265&show_icons=true&locale=en&layout=compact" alt="nguyenthuanit265" /></p>
+<h3 align="center">Nguyễn Huỳnh Minh Thuận</h3>
+<h4 align="center">Backend Engineer • Java/Spring Boot & Golang</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthuanit265&show_icons=true&locale=en" alt="nguyenthuanit265" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%80%A2+Java%2FSpring+Boot;Golang+%26+Distributed+Systems;Exploring+AI-Assisted+Development" alt="Typing SVG" />
+</p>
 
-<h3 align="left" style="color: #0366d6;">🚀 Skills</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenthuanit265&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+</p>
 
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px;">
-  <p><strong>💻 Programming Languages:</strong> Java8, Java11, Java17, Golang, Python</p>
-  
-  <p><strong>🛠 Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, Spring Data JPA, Gin</p>
-  
-  <p><strong>🗄️ Databases:</strong> PostgreSQL, MySQL</p>
-  
-  <p><strong>📨 Message Queues:</strong> Apache Kafka, RabbitMQ</p>
-  
-  <p><strong>🚀 Cache System:</strong> Redis</p>
-  
-  <p><strong>☁️ AWS Services:</strong> S3, DynamoDB, CloudSearchDomain, Lambda, Cognito, CodeCommit</p>
-  
-  <p><strong>🔧 Other Tools:</strong> Kibana, Supervisord</p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen-huynh-minh-thuan-it/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/thuan562.nguyen">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,py,postgres,mysql,kafka,redis,aws,rabbitmq,dynamodb&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supervisord-333333?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nguyenthuanit265&theme=tokyonight&hide_border=true" />
+</p>
