@@ -41,6 +41,17 @@
 
 ---
 
+### 🌆 3D Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nguyenthuanit265&theme=tokyonight&hide_border=true" />
 </p>
