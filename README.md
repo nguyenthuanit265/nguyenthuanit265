@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Supervisord-333333?style=for-the-badge" />
 </p>
 
-<!--
+
 ---
 
 
@@ -50,7 +50,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
     <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
   </picture>
-</p> -->
+</p>
 
 ---
 
