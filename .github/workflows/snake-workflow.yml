@@ -1,0 +1,42 @@
+# Cách dùng:
+# 1. Copy file này vào repo profile thật (nguyenthuanit265/nguyenthuanit265),
+#    tại đường dẫn: .github/workflows/snake.yml
+# 2. Repo đó phải public và có tên trùng username GitHub (nguyenthuanit265/nguyenthuanit265).
+# 3. Vào Settings → Actions → General → "Workflow permissions" → chọn
+#    "Read and write permissions" (để action được phép push vào branch "output").
+# 4. Chạy tay lần đầu qua tab Actions → "Generate Snake" → "Run workflow",
+#    hoặc chờ tới lịch cron / push tiếp theo lên main.
+# 5. Sau khi chạy xong, branch "output" sẽ có file SVG mà README.md đang tham
+#    chiếu (github-contribution-grid-snake-dark.svg).
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 00:00 UTC mỗi ngày
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
