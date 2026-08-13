@@ -144,9 +144,3 @@ $ echo $STATUS
 <p align="center">
   <img src="https://raw.githubusercontent.com/nguyenthuanit265/nguyenthuanit265/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nguyenthuanit265&background=000000&border=33FF00&ring=33FF00&fire=33FF00&currStreakNum=FFFFFF&sideNums=33FF00&currStreakLabel=33FF00&sideLabels=888888&dates=666666&hide_border=false" />
-</p>
